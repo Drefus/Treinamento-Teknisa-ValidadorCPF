@@ -1,0 +1,40 @@
+body {
+    background-color: darkgray;
+}
+
+.container {
+    text-align: center;
+}
+
+body input{
+        padding: 8px;
+        margin-right: 8px;
+        border: 1px solid black;
+        border-radius: 10px;
+        
+}
+
+body button{
+    padding: 8px 16px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 10px;
+ }
+body button:hover {
+    background-color: darkgray;
+    color: white;
+    cursor:pointer;
+}
+
+.footer {
+    margin-top: 25px;
+    font-size: 20 px;
+    
+}
+
+#resultado {
+    border: 1px solid transparent;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: transparent;
+}
